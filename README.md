@@ -15,4 +15,9 @@ Haskell se presta bien a la programación simultánea debido a su manejo explíc
 Las funciones no evalúan sus argumentos. Esto significa que los programas pueden componer juntos muy bien, con la capacidad de escribir constructos de control (como if / else) simplemente escribiendo funciones normales. La pureza del código Haskell hace que sea fácil fusionar cadenas de funciones juntas, permitiendo beneficios de rendimiento.
 ### Paquetes
 La contribución de código abierto a Haskell es muy activa con una amplia gama de paquetes disponibles en los servidores de paquetes públicos.
+### links relacionados
+[https://www.haskell.org/](https://www.haskell.org/)
+
+[https://wiki.haskell.org/Aprende_Haskell_en_10_minutos](https://wiki.haskell.org/Aprende_Haskell_en_10_minutos)
+
                                                         
