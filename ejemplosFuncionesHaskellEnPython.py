@@ -59,13 +59,13 @@ print(igualLista(lista1=["Hola","Mundo"], lista2=["Mundo","Hola"]))
 #True
 
 def listaOrdenada(lista):
-	y=ord(lista[0])
+	y=lista[0]
 	si=True
 	for x in lista:
-		if(y>ord(x)):
+		if(y>x):
 			si=False
 			break
-		y=ord(x)
+		y=x
 	return si
 
 print(listaOrdenada(lista=['a','b','c','d']))
